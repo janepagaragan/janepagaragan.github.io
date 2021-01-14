@@ -1,57 +1,55 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Jane Pagaragan",
+    "label": "Shidler Undergraduate",
+    "picture": "https://janepagaragan.github.io/images/IMG_4600.jpg",
+    "email": "jmap4@hawaii.edu",
+    "phone": "",
+    "website": "https://janepagaragan.github.io",
+    "summary": "I am pursuing a B.B.A. in Management Information Systems and Marketing in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "janepagaragan",
+        "url": "http://github.com/janepagaragan"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "janemariellepagaragan",
+        "url": "http://linkedin.com/in/janemariellepagaragan"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "mailto",
+        "username": "jmap4@hawaii.edu",
+        "url": "mailto:jmap4@hawaii.edu"
       },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Data Analytics",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Traveling",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Car Modifications",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Competitive Gaming",
       "keywords": [
       ]
     }
