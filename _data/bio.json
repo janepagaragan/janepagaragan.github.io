@@ -51,36 +51,38 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Microsoft Office",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Outlook"
       ]
     },
     {
-      "name": "Toolsets/OS",
+    "name": "Technical",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "MacOS X",
+        "Windows XP",
+      ]
+    },
+    {
+      "name": "Design Applications",
+      "level": "",
+      "keywords": [
+        "Adobe Creative Cloud",
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Shidler College of Business at the University of Hawaii at Manoa",
+      "area": "Management Information Systems (expected Spring, 2022)",
+      "studyType": "B.B.A.",
+      "startDate": "",
+      "endDate": "",
       "gpa": "",
       "courses": [
       ]
@@ -88,69 +90,55 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Elite Parking Services",
+      "position": "Valet Clerk and Driver",
+      "website": "https://eliteparking.net/",
+      "startDate": "2019",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Manage accurate documentation of vehicles, damages, and other conditions",
+        "Facilitate financial transactions with guests and prepare cash deposits",
+        "Deliver lunch meals to elderly on Oahu during the COVID-19 pandemic"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Shidler Office of Internships & Career Development",
+      "position": "Student Peer Advisor",
+      "website": "",
+      "startDate": "2019-01-18",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        " Maintain databases for student records, professional outreach, and job opportunities",
+        "Collaborate with a team of 5 to organize bi-annual Shidler College of Internship & Career Expo"
       ]
     }
   ],
-  "volunteer": [
+  "Activities": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Information Technology Management Association",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Active Member",
+      "startDate": "2020-09-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
+      "title": "Dean's List",
+      "date": "Spring 2019",
+      "awarder": "",
+      "summary": ""
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Kellet I. Min Scholarship Receipient",
+      "date": "Fall 2018 - Fall 2019",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
