@@ -1,151 +1,156 @@
 {
-  "basics": {
-    "name": "Jane Pagaragan",
-    "label": "Shidler Undergraduate",
-    "picture": "https://janepagaragan.github.io/images/IMG_4600.jpg",
-    "email": "jmap4@hawaii.edu",
-    "phone": "",
-    "website": "https://janepagaragan.github.io",
-    "summary": "I am pursuing a B.B.A. in Management Information Systems and Marketing in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2022.",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
-    },
-    "profiles": [
+   "basics":{
+      "name":"Jane Pagaragan",
+      "label":"Shidler Undergraduate",
+      "picture":"https://janepagaragan.github.io/images/IMG_4600.jpg",
+      "email":"jmap4@hawaii.edu",
+      "phone":"",
+      "website":"https://janepagaragan.github.io",
+      "summary":"I am pursuing a B.B.A. in Management Information Systems and Marketing in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2022.",
+      "location":{
+         "address":"",
+         "postalCode":"",
+         "city":"",
+         "countryCode":"",
+         "region":""
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"janepagaragan",
+            "url":"http://github.com/janepagaragan"
+         },
+         {
+            "network":"linkedin",
+            "username":"janemariellepagaragan",
+            "url":"http://linkedin.com/in/janemariellepagaragan"
+         }
+      ]
+   },
+   "interests":[
       {
-        "network": "github",
-        "username": "janepagaragan",
-        "url": "http://github.com/janepagaragan"
+         "name":"Data Analytics",
+         "keywords":[
+            
+         ]
       },
       {
-        "network": "linkedin",
-        "username": "janemariellepagaragan",
-        "url": "http://linkedin.com/in/janemariellepagaragan"
+         "name":"Traveling",
+         "keywords":[
+            
+         ]
       },
-    ]
-  },
-  "interests": [
-    {
-      "name": "Data Analytics",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Traveling",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Car Modifications",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Competitive Gaming",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Microsoft Office",
-      "level": "",
-      "keywords": [
-        "Word",
-        "Excel",
-        "PowerPoint",
-        "Outlook"
-      ]
-    },
-    {
-    "name": "Technical",
-      "level": "",
-      "keywords": [
-        "MacOS X",
-        "Windows XP",
-      ]
-    },
-    {
-      "name": "Design Applications",
-      "level": "",
-      "keywords": [
-        "Adobe Creative Cloud",
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Shidler College of Business at the University of Hawaii at Manoa",
-      "area": "Management Information Systems (expected Spring, 2022)",
-      "studyType": "B.B.A.",
-      "startDate": "",
-      "endDate": "",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Elite Parking Services",
-      "position": "Valet Clerk and Driver",
-      "website": "https://eliteparking.net/",
-      "startDate": "2019",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Manage accurate documentation of vehicles, damages, and other conditions",
-        "Facilitate financial transactions with guests and prepare cash deposits",
-        "Deliver lunch meals to elderly on Oahu during the COVID-19 pandemic"
-      ]
-    },
-    {
-      "company": "Shidler Office of Internships & Career Development",
-      "position": "Student Peer Advisor",
-      "website": "",
-      "startDate": "2019-01-18",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        " Maintain databases for student records, professional outreach, and job opportunities",
-        "Collaborate with a team of 5 to organize bi-annual Shidler College of Internship & Career Expo"
-      ]
-    }
-  ],
-  "activities": [
-    {
-      "organization": "Information Technology Management Association",
-      "website": "",
-      "position": "Active Member",
-      "startDate": "2020-09-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Dean's List",
-      "date": "Spring 2019",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "Kellet I. Min Scholarship Receipient",
-      "date": "Fall 2018 - Fall 2019",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+      {
+         "name":"Car Modifications",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Competitive Gaming",
+         "keywords":[
+            
+         ]
+      }
+   ],
+   "skills":[
+      {
+         "name":"Microsoft Office",
+         "level":"",
+         "keywords":[
+            "Word",
+            "Excel",
+            "PowerPoint",
+            "Outlook"
+         ]
+      },
+      {
+         "name":"Technical",
+         "level":"",
+         "keywords":[
+            "MacOS X",
+            "Windows XP"
+         ]
+      },
+      {
+         "name":"Design Applications",
+         "level":"",
+         "keywords":[
+            "Adobe Creative Cloud"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"Shidler College of Business at the University of Hawaii at Manoa",
+         "area":"Management Information Systems (expected Spring, 2022)",
+         "studyType":"B.B.A.",
+         "startDate":"",
+         "endDate":"",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"Elite Parking Services",
+         "position":"Valet Clerk and Driver",
+         "website":"https://eliteparking.net/",
+         "startDate":"2019",
+         "endDate":"Present",
+         "summary":"",
+         "highlights":[
+            "Manage accurate documentation of vehicles, damages, and other conditions",
+            "Facilitate financial transactions with guests and prepare cash deposits",
+            "Deliver lunch meals to elderly on Oahu during the COVID-19 pandemic"
+         ]
+      },
+      {
+         "company":"Shidler Office of Internships & Career Development",
+         "position":"Student Peer Advisor",
+         "website":"",
+         "startDate":"2019-01-18",
+         "endDate":"Present",
+         "summary":"",
+         "highlights":[
+            " Maintain databases for student records, professional outreach, and job opportunities",
+            "Collaborate with a team of 5 to organize bi-annual Shidler College of Internship & Career Expo"
+         ]
+      }
+   ],
+   "activities":[
+      {
+         "organization":"Information Technology Management Association",
+         "website":"",
+         "position":"Active Member",
+         "startDate":"2020-09-01",
+         "endDate":"Present",
+         "summary":"",
+         "highlights":[
+            ""
+         ]
+      }
+   ],
+   "awards":[
+      {
+         "title":"Dean's List",
+         "date":"Spring 2019",
+         "awarder":"",
+         "summary":""
+      },
+      {
+         "title":"Kellet I. Min Scholarship Receipient",
+         "date":"Fall 2018 - Fall 2019",
+         "awarder":"",
+         "summary":""
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
 }
