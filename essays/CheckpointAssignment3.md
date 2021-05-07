@@ -8,7 +8,7 @@ labels:
   - Checkpoint
   - Screencast
 ---
-<img src="ASS3.png">
+<img src="https://janepagaragan.github.io/images/ASS3.png">
 
 My screencast can be accessed <a href="https://youtu.be/CLWxMIsOq7o">here</a>.
 
