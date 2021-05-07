@@ -8,7 +8,7 @@ labels:
   - Checkpoint
   - Screencast
 ---
-<img src="https://github.com/janepagaragan/janepagaragan.github.io/blob/master/images/ASS3.png?raw=true" width="80%" height="80%">
+<img src="https://github.com/janepagaragan/janepagaragan.github.io/blob/master/images/ASS3.png?raw=true" width="90%" height="90%">
 
 My screencast can be accessed <a href="https://youtu.be/CLWxMIsOq7o">here</a>.
 
